@@ -1,0 +1,12 @@
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\DevSkill.BitCoinDemo.Library.dll
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\DevSkill.BitCoinDemo.Library.pdb
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\Newtonsoft.Json.xml
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\obj\Debug\DevSkill.BitCoinDemo.Library.csprojResolveAssemblyReference.cache
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\obj\Debug\DevSkill.BitCoinDemo.Library.dll
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\obj\Debug\DevSkill.BitCoinDemo.Library.pdb
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\DevSkill.BitCoinDemo.Library.dll.config
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\EntityFramework.dll
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\EntityFramework.xml
+C:\Work\livesession1\code\DevSkill.BitCoinPriceDemo\DevSkill.BitCoinDemo.Library\bin\Debug\EntityFramework.SqlServer.xml
